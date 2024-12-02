@@ -1,7 +1,6 @@
-## Olá, me chamo Matheus!
+## Olá, me chamo !
 
-//Atualmente sou da área de Ciência de Dados e faço graduação de Análise e Desenvolvimento de Sistemas.
-//Um dos meus maiores interesses na vida é o 'long-life learning' e amo a área de tecnologia.
+
 
 ## Ferramentas e tecnologias
 
